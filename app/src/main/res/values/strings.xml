@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hindi Calendar 2019</string>
+    <string name="JANUARY">JANUARY</string>
+    <string name="FEBRUARY">FEBRUARY</string>
+    <string name="MARCH">MARCH</string>
+    <string name="APRIL">APRIL</string>
+    <string name="MAY">MAY</string>
+    <string name="JUNE">JUNE</string>
+    <string name="JULY">JULY</string>
+    <string name="AUGUST">AUGUST</string>
+    <string name="SEPTEMBER">SEPTEMBER</string>
+    <string name="OCTOBER">OCTOBER</string>
+    <string name="NOVEMBER">NOVEMBER</string>
+    <string name="DECEMBER">DECEMBER</string>
+    <string name="action_settings">Share it</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
